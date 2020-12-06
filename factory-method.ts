@@ -36,6 +36,7 @@ class DogCreator implements AnimalCreator {
 
 const catCreator = new CatCreator();
 const dogCreator = new DogCreator();
+
 const cat = catCreator.createAnimal();
 const dog = dogCreator.createAnimal();
 

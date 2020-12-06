@@ -4,7 +4,8 @@
   "description": "Паттерны проектирования",
   "main": "index.js",
   "scripts": {
-    "factory-method": "tsc && node factory-method.js"
+    "factory-method": "tsc && node factory-method.js",
+    "abstract-factory": "tsc && node abstract-factory.js"
   },
   "author": "SergeyMakhonya",
   "license": "ISC",

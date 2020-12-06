@@ -11,3 +11,4 @@ npm ci
 | Название паттерна | Команда |
 |---|---|
 |Фабричный метод (Factory method)|`npm run factory-method`|
+|Абстрактная фабрика (Abstract factory)|`npm run abstract-factory`|

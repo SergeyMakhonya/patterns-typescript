@@ -1,0 +1,14 @@
+{
+  "name": "patterns",
+  "version": "1.0.0",
+  "description": "Паттерны проектирования",
+  "main": "index.js",
+  "scripts": {
+    "factory-method": "tsc && node factory-method.js"
+  },
+  "author": "SergeyMakhonya",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.1.2"
+  }
+}

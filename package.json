@@ -4,9 +4,9 @@
   "description": "Паттерны проектирования",
   "main": "index.js",
   "scripts": {
-    "factory-method": "tsc && node factory-method.js",
-    "abstract-factory": "tsc && node abstract-factory.js",
-    "builder": "tsc && node builder.js"
+    "factory-method": "tsc factory-method.ts && node factory-method.js",
+    "abstract-factory": "tsc abstract-factory.ts && node abstract-factory.js",
+    "builder": "tsc builder.ts && node builder.js"
   },
   "author": "SergeyMakhonya",
   "license": "ISC",
